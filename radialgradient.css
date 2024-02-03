@@ -1,0 +1,7 @@
+table {
+  background-image: radial-gradient(rgb(216, 27, 27), rgb(12, 181, 23));
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 300px;
+}
